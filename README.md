@@ -1,2 +1,2 @@
 # KeyLogger-Python
-Кей Логгер на пайтоне для Windows, Linux и MakOS с поддержкой английского и русского языка
+Key Logger написанный на Python с использованием библиотеки pynput. Key Logger поддерживает английский и русский язык / Key Logger written in Python using the pynput library. Key Logger supports English and Russian
